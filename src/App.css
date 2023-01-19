@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aliceblue;
+  margin: 20px auto;
+  width:550px;
+  padding: 5px;
+}
+form{
+  background-color: rgb(231, 216, 216);
+  width:500px;
+  margin: 20px auto;
+}
+
+h1{
+  color: aqua;
+  text-align: center;
+}
+
+button{
+  text-align: center;
+  margin: auto;
+}
